@@ -1,8 +1,8 @@
-# CoreXChain
+# CoreXChain Core
 
-CoreXChain is a next-generation blockchain infrastructure platform created by CoreX Team and built around the PoV concept, or `Proof of Value`.
+CoreXChain Core is the core runtime and protocol implementation for CoreXChain, a next-generation blockchain infrastructure platform created by CoreX Team and built around the PoV concept, or `Proof of Value`.
 
-We believe the next generation of blockchain should focus on more than transaction ordering alone. It should also emphasize value confirmation, network coordination, and long-term ecosystem evolution. With PoV as its core narrative, CoreXChain integrates value expression, collaborative consensus, execution scalability, and on-chain service capability into a unified technical direction for a higher-performance and more extensible digital network.
+We believe the next generation of blockchain should focus on more than transaction ordering alone. It should also emphasize value confirmation, network coordination, and long-term ecosystem evolution. With PoV as its core narrative, CoreXChain Core brings together value expression, collaborative consensus, execution scalability, and on-chain service capability into a unified runtime foundation for a higher-performance and more extensible digital network.
 
 中文版本: [README_ZH.md](./README_ZH.md)
 日本語版: [README_JA.md](./README_JA.md)

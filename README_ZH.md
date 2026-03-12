@@ -1,8 +1,8 @@
-# CoreXChain
+# CoreXChain Core
 
-CoreXChain 是由 CoreX Team 打造的、基于 PoV（Proof of Value）理念构建的新一代区块链基础设施。
+CoreXChain Core 是 CoreXChain 的核心运行时与协议实现。CoreXChain 由 CoreX Team 打造，面向基于 PoV（Proof of Value）理念的新一代区块链基础设施。
 
-我们相信，下一代区块链不应只关注记账本身，而应更加关注价值确认、网络协同与生态演进能力。CoreXChain 以 PoV 为核心叙事，将价值表达、共识协同、执行扩展与链上服务能力整合为统一的基础架构方向，面向更高性能、更强扩展性和更多元场景的数字网络体系。
+我们相信，下一代区块链不应只关注记账本身，而应更加关注价值确认、网络协同与生态演进能力。CoreXChain Core 以 PoV 为核心叙事，将价值表达、共识协同、执行扩展与链上服务能力整合为统一的运行时基础，面向更高性能、更强扩展性和更多元场景的数字网络体系。
 
 English version: [README.md](./README.md)
 日本語版: [README_JA.md](./README_JA.md)
